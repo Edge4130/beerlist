@@ -48,3 +48,4 @@ to www.bjcp.org, the current guidelines, the app staying free, and a permission 
 BJCP Communication Director with screenshots.
 
 Known gap: 21B Specialty IPA shows its variant list but not variant parameters.
+
